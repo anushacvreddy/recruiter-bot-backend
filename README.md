@@ -259,6 +259,6 @@ The process helped me learn more about Flask, SQL, database design, testing, and
 
 ---
 
-**Author:** [Your Name]  
+**Author:** CV Anusha Reddy
 **Project:** RecruiterFlow Backend Developer Assignment  
 **Language:** Python
