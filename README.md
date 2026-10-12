@@ -242,11 +242,14 @@ This project strengthened my understanding of how backend components work togeth
 
 ## 13. AI Tools Usage
 
-I used ChatGPT as an AI-assisted learning and development tool to help understand implementation options, reason about the matching algorithm, troubleshoot errors, review SQL queries, and improve documentation.
+## AI Tools Usage
+
+Used ChatGPT (OpenAI) to support Flask development, reason about the matching algorithm, review SQL queries, and troubleshoot implementation issues. Reviewed AI-generated suggestions, ran the application and automated tests locally, and validated the SQL queries against the supplied dataset.
 
 I ran the application locally, tested the API endpoints, executed the matching tests, loaded the supplied SQL challenge data, and checked the query results. I reviewed AI suggestions and tested them rather than assuming that generated code or explanations were automatically correct.
 
 The process helped me learn more about Flask, SQL, database design, testing, and the trade-offs involved in building an explainable matching algorithm. I can discuss the implementation choices and the validation process during a technical walkthrough.
+
 
 ## 14. Future Improvements
 
